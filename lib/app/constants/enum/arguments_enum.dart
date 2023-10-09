@@ -1,0 +1,1 @@
+enum MessageScreenArgumentEnum {phoneNumber,userName}
